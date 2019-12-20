@@ -56,7 +56,7 @@ This is my REAMDE. There are many like it, but this one is mine. (If you know wh
     - That said, you should feel free to keep the conversation going about whatever topic you like. It's your time. AMA, if you like.
 - I use tags in email subjects for filtering purposes.
   - See glossary at [link]
-- I default to Scrum. I am not particularly dogmatic about it. I am open to other methodologies.   
+- I default to ~~Scrum~~ Kanban [I keep doing this - if I propose Scrum, remind me it never works and we should skip ahead to Kanban]. I am not particularly dogmatic about it. I am open to other methodologies.   
   - "Nothing" is not a methodology.
 - I don't care where or when you work. If I can reach you within a business day and you are generally making an effort to be available, we're probably good.
 - I have teams across many time zones. Don't count on me to be available for any specific time if we haven't negotiated it in advance. As above, if you need to you can contact me direct 24/7.
