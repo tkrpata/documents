@@ -34,6 +34,7 @@ This is my REAMDE. There are many like it, but this one is mine. (If you know wh
  - You should never be surprised by performance feedback, ESPECIALLY at review time.
  - Known failure mode: I tend toward "no news is good news," or in other words, lack of negative feedback from me implies positive feedback. I realize this is a weakness of mine. I try to be mindful of it, but it will likely always be present in some form.
   - If you don't know how you're doing, please don't hesitate to tell me so I can correct that.
+- Known failure mode: If you don't tell me you're overloaded, I assume you have bandwidth, and will keep giving you more shit to do. Easy solution: tell me you're at max, and I will correct that.
 
 ## Your Job
 - Being "busy" is not a desirable condition. Never run at 100% capacity during normal course of business. Running under capacity leaves headroom in case of emergency.
