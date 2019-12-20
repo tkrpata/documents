@@ -26,6 +26,8 @@ This is my REAMDE. There are many like it, but this one is mine. (If you know wh
   - Effectively
   - With minimal hassle, administrative overhead, and other miscellaneous bullshit
   - With maximum fun! (Fun not guaranteed)
+- My prioritization order of operations: you > our customers > my peers > my management
+  - Yes, you are a higher priority than our customers. This is important!
 - To ensure you understand the reason for, purpose of, and value of any work you are asked to do.
 - To ensure you have ample opportunities for personal and professional growth.
 - To ensure you always know how you are performing, and what is required to reach your next level (promotion, job family change, etc.).
