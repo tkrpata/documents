@@ -52,6 +52,7 @@ This is my REAMDE. There are many like it, but this one is mine. (If you know wh
   - I will prioritize the 1:1 over other conflicts. Except in rare cases, I will only cancel or reschedule with your permission.
   - 1:1 is not a status update. You should not be telling me anything I don't already know about what you're working on or how it's going. We will have other mechanisms for status.
   - Some weeks we don't have anything to talk about and don't get into a groove. That's ok. We'll cut it short and take the time back those weeks. This is not a problem.
+    - I'm serious, I'm aggressive about keeping these short.
     - That said, you should feel free to keep the conversation going about whatever topic you like. It's your time. AMA, if you like.
 - I use tags in email subjects for filtering purposes.
   - See glossary at [link]
