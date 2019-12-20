@@ -34,7 +34,6 @@ This is my REAMDE. There are many like it, but this one is mine. (If you know wh
  - You should never be surprised by performance feedback, ESPECIALLY at review time.
  - Known failure mode: I tend toward "no news is good news," or in other words, lack of negative feedback from me implies positive feedback. I realize this is a weakness of mine. I try to be mindful of it, but it will likely always be present in some form.
   - If you don't know how you're doing, please don't hesitate to tell me so I can correct that.
-- Known failure mode: If you don't tell me you're overloaded, I assume you have bandwidth, and will keep giving you more shit to do. Easy solution: tell me you're at max, and I will correct that.
 
 ## Your Job
 - Being "busy" is not a desirable condition. Never run at 100% capacity during normal course of business. Running under capacity leaves headroom in case of emergency.
@@ -43,6 +42,7 @@ This is my REAMDE. There are many like it, but this one is mine. (If you know wh
 - You are encouraged and empowered to decline or postpone requests for additional work that are lower priority than your current task list.
  - If your "no" doesn't take, escalate to me and I will handle this for you.
  - If you don't have the information to prioritize, I have done something wrong. Talk to me so I can correct this.
+ - Known failure mode: If you don't tell me you're overloaded, I assume you have bandwidth, and will keep giving you more shit to do. Easy solution: tell me you're at max, and I will correct that.
 
 ## Logistics
 - I am always available to my team (yes 24/7) for any reason. You can reach me by any means available to you, but note that I may not always be checking. Phone/text is most likely to grab my attention. Email is least likely.
