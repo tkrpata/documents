@@ -9,17 +9,15 @@ Tag format:
 
 Ex:  
 Subject: **[foo] Bar the baz**  
-Subject: **[urgent] [action] Check out this dank meme**
+Subject: **[action] [time-sensitive] Check out this dank meme**
 
 I'd like to shorten some of these, but I realize not everyone is willing or able to read the glossary, so I prefer they be self-explanatory as possible.
-
-
 
 - What you need to do  
 **[action]** I'd like you to do something.  
 **[response]** A response is requested (if you work FOR me, it's probably required).  
-**[review]** Read and optionally provide feedback. 
-There is no [read] tag. Default is read with no further action. 
+**[review]** Read and optionally provide feedback.   
+**[read]** (Optional) Read. Can be omitted.   
   
 - Priority   
 **[urgent]** There is a deadline, and that deadline is right now.  
@@ -32,3 +30,5 @@ There is no [read] tag. Default is read with no further action.
 **[doc]** There is a doc attached. (Or there is supposed to be. I have probably forgotten to attach it.)  
 **[notes]** Notes, typically from a meeting we just had.  
 
+- When    
+**[MM/DD/YYYY]** Due date. Usually with [time-sensitive].
